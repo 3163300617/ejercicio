@@ -1,0 +1,12 @@
+body{
+	background-color: green;
+}
+@font-face{
+	font-family: 'austina';
+	src: url('../fonts/austina.otf'),
+		 url('../fonts/austina.ttf');
+}
+@font-face{
+	font-family: 'beto';
+	src: url('../fonts/octobre.ttf');
+}
